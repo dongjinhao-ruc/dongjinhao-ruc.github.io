@@ -21,7 +21,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Jinhao Dong, Ph.D., is a lecturer in the Key Laboratory of Data Engineering and Knowledge Engineering (MOE) and the School of Information, Renmin University of China (RUC), and is selected into the **Wu Yuzhang Young Talents Program (吴玉章青年英才)** of RUC. He joins the research group led by Professor [Xiaoyong Du](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/7374b0a3f58045fc9543703ccea2eb9c.htm) and Professor [Wei Lu](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/43edc05040f54656aed4869bb7969de0.htm). He is also the technical advisor of **Xiaomi's LLM Core Team**, and a **core contributor to the MiMo series of foundation models** — he is primarily responsible for code-related LLM development, including **pretraining, reinforcement learning, Code Agent, browser agent, and the OpenClaw general agent platform**. The **MiMo-V2-Pro** model that he core-contributed ranks **#8 globally and #2 in China on the Artificial Analysis Intelligence Index**, and has been the **#1 model by call volume on OpenRouter**. He took the lead in establishing the **RUC–Xiaomi Joint Key Laboratory for Foundation Large Language Models** (the first joint key laboratory under RUC's new policy) and serves on its Technical Committee.
+Jinhao Dong, Ph.D., is a lecturer in the Key Laboratory of Data Engineering and Knowledge Engineering (MOE) and the School of Information, Renmin University of China (RUC), and is selected into the **Wu Yuzhang Young Talents Program (吴玉章青年英才)** of RUC. He joins the research group led by Professor [Xiaoyong Du](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/7374b0a3f58045fc9543703ccea2eb9c.htm) and Professor [Wei Lu](http://info.ruc.edu.cn/jsky/szdw/ajxjgcx/jsjkxyjsx1/js2/43edc05040f54656aed4869bb7969de0.htm). He is also the technical advisor of **Xiaomi's LLM Core Team**, and a **core contributor to the MiMo series of foundation models** — he is primarily responsible for code-related LLM development, including **pretraining, reinforcement learning, Code Agent, browser agent, and the OpenClaw general agent platform**. The **MiMo-V2-Pro** model that he core-contributed ranks **#8 globally and #2 in China on the Artificial Analysis Intelligence Index**, and has been the **#1 model by call volume on OpenRouter**. His latest core-contributed model, **MiMo-V2.6-Pro**, scores **46 on the Artificial Analysis Intelligence Index**, surpassing Kimi K3 and Qwen3.8 Max to become **the strongest open-source model at its release**, and matches Claude Opus 5 and GPT-5.6 Sol on most agent benchmarks. He took the lead in establishing the **RUC–Xiaomi Joint Key Laboratory for Foundation Large Language Models** (the first joint key laboratory under RUC's new policy) and serves on its Technical Committee.
 
 He has published **17 papers at CCF-A top-tier conferences and journals (11 as first / corresponding author)**, covering ICML, NeurIPS, KDD, ICSE, ASE, ISSTA, FSE, etc.
 
@@ -68,6 +68,12 @@ Total: **17 papers at CCF-A top venues, 11 as first / corresponding author.** (\
 <a href='https://arxiv.org/abs/2610.11959'><i class="fa fa-file-pdf"></i>[arXiv]</a>
   
   **Core contributor.** Contributed to RL data construction, environment construction, reward-hacking mitigation, and groupwise agentic grading for code agent RL.
+
+- [Technical Report] **MiMo-V2-Flash Technical Report**
+<a href='https://arxiv.org/abs/2601.02780'><i class="fa fa-file-pdf"></i>[arXiv]</a>
+<a href='https://github.com/XiaomiMiMo/MiMo-V2-Flash'><i class="fab fa-github"></i>[GitHub]</a>
+  
+  Core contributor
 
 - [Technical Report] **MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining**
 <a href='pdfs/mimo-v1.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>

@@ -15,7 +15,7 @@ author_profile: true
 
 研究方向聚焦**大模型（LLM）**，具体包括：**代码大模型**（预训练、强化学习、Code Agent）、**大模型智能体**（记忆管理、工具使用、浏览器 Agent、通用智能体平台 OpenClaw）、**大模型基础设施**（长上下文 KVCache 压缩、鲁棒微调）。已在 ICML、NeurIPS、KDD、ICSE、ASE 等 CCF-A 类顶级会议及期刊发表论文 **17 篇，其中第一作者/通讯作者 11 篇**。
 
-现任**小米大模型 Core 团队技术顾问**，是**小米 MiMo 系列大模型的核心贡献者**，深度参与 MiMo 系列大模型的预训练、Code Agent 强化学习、浏览器 Agent、OpenClaw Agent。核心贡献的 **MiMo-V2-Pro 大模型在 Artificial Analysis Intelligence Index 排名全球第八、中国第二，OpenRouter 全球调用量蝉联 Top1**。**主导筹建中国人民大学—小米基座大模型联合重点实验室**（学校新政策以来首个联合重点实验室），任实验室技术委员会委员，聚焦国产基座大模型与智能体平台研发。
+现任**小米大模型 Core 团队技术顾问**，是**小米 MiMo 系列大模型的核心贡献者**，深度参与 MiMo 系列大模型的预训练、Code Agent 强化学习、浏览器 Agent、OpenClaw Agent。核心贡献的 **MiMo-V2-Pro 大模型在 Artificial Analysis Intelligence Index 排名全球第八、中国第二，OpenRouter 全球调用量蝉联 Top1**；最新核心贡献的 **MiMo-V2.6-Pro 在 Artificial Analysis Intelligence Index 中取得 46 分，超过 Kimi K3 和 Qwen3.8 Max，成为发布时最强的开源模型**，在多数 Agent Benchmark 上比肩 Claude Opus 5 与 GPT-5.6 Sol。**主导筹建中国人民大学—小米基座大模型联合重点实验室**（学校新政策以来首个联合重点实验室），任实验室技术委员会委员，聚焦国产基座大模型与智能体平台研发。
 
 ***<u>课题组长期面向优秀本科生和研究生开放科研实习机会。如果对小米大模型 Core 团队实习感兴趣，欢迎邮件联系 dongjinhao@ruc.edu.cn。</u>***
 
@@ -48,6 +48,10 @@ author_profile: true
 - [Technical Report] **MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement** <a href='https://arxiv.org/abs/2610.11959'><i class="fa fa-file-pdf"></i>[arXiv]</a>
 
   **核心贡献者**，参与强化学习数据构造、环境构造、reward hacking 防御，以及 Code Agent RL 的组内 agentic grader。
+
+- [Technical Report] **MiMo-V2-Flash Technical Report** <a href='https://arxiv.org/abs/2601.02780'><i class="fa fa-file-pdf"></i>[arXiv]</a> <a href='https://github.com/XiaomiMiMo/MiMo-V2-Flash'><i class="fab fa-github"></i>[GitHub]</a>
+
+  核心贡献者
 
 - [Technical Report] **MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining** <a href='pdfs/mimo-v1.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a> <a href='https://github.com/XiaomiMiMo/MiMo'><i class="fab fa-github"></i>[GitHub]</a>
 

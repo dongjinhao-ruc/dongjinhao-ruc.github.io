@@ -49,10 +49,6 @@ author_profile: true
 
   **核心贡献者**，参与强化学习数据构造、环境构造、reward hacking 防御，以及 Code Agent RL 的组内 agentic grader。
 
-- [Technical Report] **MiMo-V2-Flash Technical Report** <a href='https://arxiv.org/abs/2601.02780'><i class="fa fa-file-pdf"></i>[arXiv]</a> <a href='https://github.com/XiaomiMiMo/MiMo-V2-Flash'><i class="fab fa-github"></i>[GitHub]</a>
-
-  核心贡献者
-
 - [Technical Report] **MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining** <a href='pdfs/mimo-v1.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a> <a href='https://github.com/XiaomiMiMo/MiMo'><i class="fab fa-github"></i>[GitHub]</a>
 
   **核心贡献者，负责代码预训练与强化学习。** 处理代码预训练与后训练数据，提出 test-difficulty–driven code reward，缓解代码强化学习中的稀疏奖励问题。

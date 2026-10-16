@@ -69,12 +69,6 @@ Total: **17 papers at CCF-A top venues, 11 as first / corresponding author.** (\
   
   **Core contributor.** Contributed to RL data construction, environment construction, reward-hacking mitigation, and groupwise agentic grading for code agent RL.
 
-- [Technical Report] **MiMo-V2-Flash Technical Report**
-<a href='https://arxiv.org/abs/2601.02780'><i class="fa fa-file-pdf"></i>[arXiv]</a>
-<a href='https://github.com/XiaomiMiMo/MiMo-V2-Flash'><i class="fab fa-github"></i>[GitHub]</a>
-  
-  Core contributor
-
 - [Technical Report] **MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining**
 <a href='pdfs/mimo-v1.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
 <a href='https://github.com/XiaomiMiMo/MiMo'><i class="fab fa-github"></i>[GitHub]</a>

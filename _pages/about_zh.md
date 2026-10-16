@@ -45,6 +45,10 @@ author_profile: true
 **合计：CCF-A 类顶级会议及期刊论文 17 篇，其中第一作者/通讯作者 11 篇。**
 （\* 表示通讯作者）
 
+- [Technical Report] **MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement** <a href='https://arxiv.org/abs/2610.11959'><i class="fa fa-file-pdf"></i>[arXiv]</a>
+
+  **核心贡献者**，参与强化学习数据构造、环境构造、reward hacking 防御，以及 Code Agent RL 的组内 agentic grader。
+
 - [Technical Report] **MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining** <a href='pdfs/mimo-v1.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a> <a href='https://github.com/XiaomiMiMo/MiMo'><i class="fab fa-github"></i>[GitHub]</a>
 
   **核心贡献者，负责代码预训练与强化学习。** 处理代码预训练与后训练数据，提出 test-difficulty–driven code reward，缓解代码强化学习中的稀疏奖励问题。
@@ -56,6 +60,10 @@ author_profile: true
 - [Technical Report] **MiMo-Audio: Audio Language Models are Few-Shot Learners** <a href='pdfs/mimo-audio.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a> <a href='https://github.com/XiaomiMiMo/MiMo-Audio'><i class="fab fa-github"></i>[GitHub]</a>
 
   贡献者
+
+- [arXiv'26] **Groupwise Agentic Grading and Advantage Redistribution for Code Agent RL** <a href='https://arxiv.org/abs/2609.32577'><i class="fa fa-file-pdf"></i>[arXiv]</a>
+
+  **Jinhao Dong**, Liang Zhao, Zihao Yue, Wenhan Ma, Linghao Zhang, Lei Li, Shicheng Li, Yifan Song, Bowen Ye, Fuli Luo
 
 - [ICML'26] **RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference**
 

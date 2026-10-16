@@ -64,6 +64,11 @@ His current research focuses on **Large Language Models (LLMs)**, building the n
 
 Total: **17 papers at CCF-A top venues, 11 as first / corresponding author.** (\* denotes corresponding author)
 
+- [Technical Report] **MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement**
+<a href='https://arxiv.org/abs/2610.11959'><i class="fa fa-file-pdf"></i>[arXiv]</a>
+  
+  **Core contributor.** Contributed to RL data construction, environment construction, reward-hacking mitigation, and groupwise agentic grading for code agent RL.
+
 - [Technical Report] **MiMo: Unlocking the Reasoning Potential of Language Model – From Pretraining to Posttraining**
 <a href='pdfs/mimo-v1.pdf'><i class="fa fa-file-pdf"></i>[PDF]</a>
 <a href='https://github.com/XiaomiMiMo/MiMo'><i class="fab fa-github"></i>[GitHub]</a>
@@ -81,6 +86,11 @@ Total: **17 papers at CCF-A top venues, 11 as first / corresponding author.** (\
 <a href='https://github.com/XiaomiMiMo/MiMo-Audio'><i class="fab fa-github"></i>[GitHub]</a>
   
   Contributor
+
+- [arXiv'26] **Groupwise Agentic Grading and Advantage Redistribution for Code Agent RL**
+<a href='https://arxiv.org/abs/2609.32577'><i class="fa fa-file-pdf"></i>[arXiv]</a>
+
+  **Jinhao Dong**, Liang Zhao, Zihao Yue, Wenhan Ma, Linghao Zhang, Lei Li, Shicheng Li, Yifan Song, Bowen Ye, Fuli Luo
 
 - [ICML'26] **RaBitQCache: Rotated Binary Quantization for KVCache in Long Context LLM Inference**
 
